@@ -6,7 +6,7 @@ public class Test {
 
 		Student st = new Student();
 
-		// 아래 두 개는 서로 연관이 있음!
+		// 서로 연관이 없음
 		p.eat();
 
 		st.eat();
