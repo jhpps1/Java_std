@@ -26,7 +26,7 @@ public final class Student extends Person {
 //		System.out.println("지식을 먹는다.");
 //	}
 	
-	public void eat(int time) {  // 문제 없다.
+	public void eat(int time) {  // 문제 없다. 이름만 똑같은 다른 친구
 		
 	}
 }
