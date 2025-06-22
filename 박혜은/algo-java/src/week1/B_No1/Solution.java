@@ -1,4 +1,4 @@
-package B_No1;
+package week1.B_No1;
 //새로운 불면증 치료법
 
 import java.util.*;

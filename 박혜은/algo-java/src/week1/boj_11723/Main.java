@@ -1,4 +1,4 @@
-package boj_11723;
+package week1.boj_11723;
 
 import java.util.*;
 import java.io.*;

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7895d534-0597-474f-894c-871b92d6e4b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../B_No3_암호문3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/B_No2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/B_No3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/B_Pro1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/B_Pro1/UserSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/week2/boj_10952/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algo-java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/B_No1/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/boj_11723/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/week1/boj_4659/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/src/B_No1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/B_No1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/src/boj_11723/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/boj_11723/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/src/boj_4659/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week1/boj_4659/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/week1.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2yj03ALzFWL81bENtLzZKjeSytx" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Solution.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7895d534-0597-474f-894c-871b92d6e4b6" name="Changes" comment="" />
+      <created>1750332474538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750332474538</updated>
+    </task>
+    <servers />
+  </component>
+</project>
