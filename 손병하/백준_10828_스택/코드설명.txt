@@ -1,0 +1,16 @@
+Main_10828은 여러 패키지에서 클래스를 가져와 쓰는 코드로, 5개의 패키지를 import 한다.
+
+java.io.IOException , InputStreamReader, StringTokenizer 는 각각 예외넘기기 /  BufferedReader 사용 / 공백기준 나누기 를 위한것으로
+
+특히 IOException은 BufferedReader.readLine() 호출 시 반드시 동반되어야 하는 Checked Exception 처리용 패키지
+
+
+반면, Main_10828_2 는 Scanner와 Stack 만을 사용해서 구현한 코드로, 구현 자체의 난이도가 매우 쉬워졌지만,
+위의 코드와 달리, 메모리 및 런타임이 2배로 증가한다.
+
+특히, 문자열 분리 방식인 StringTokenizer를 쓸 때와, split(" ") 에서 성능 차이가 나고, split(" ")은 정규 표현식이라 무거움.
+거기에 split은 매 호출마다 객체를 새로 생성함.
+
+입력에서부터 buffer를 사용하는 것과, 토큰 단위로 하나하나 처리하는 것에서 부터 시간이 벌어지게 된다.
+
+우선은, Main_10828_2 처럼 구현하는 걸 연습하되, 패키지 종류 및 메서드에 익숙해지면 10828처럼 쓰는걸 더 연습해보자.
