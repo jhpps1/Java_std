@@ -30,12 +30,10 @@ public class tree {
             for (int x=0; x <= sum_v; x++) {
                 int y = sum_v - 2 * x;
                 if (y < min_y) continue;
-                if (x == y) {
-                    day = x + y;
-                } else if (x > y) {
-                    day = 2 * y + (x - y) * 2;
+                if (x >= y) {
+                    day = 2 * x;
                 } else if (x < y) {
-                    day = 2 * x + (y - x) * 2 - 1;
+                    day = 2 * y - 1;
                 }
                 arr.add(day);
             }
